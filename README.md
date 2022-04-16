@@ -1,5 +1,3 @@
-### Olá, eu sou o Hugo Costa
-
 <div align="">
   <a href="https://github.com/hgcosta">
   <img height="180em" width="53%" src="https://github-readme-stats.vercel.app/api?username=hgcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
