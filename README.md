@@ -7,10 +7,9 @@
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-Node-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Hugo-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hugo-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-   <img align="center" alt="Hugo-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Hugo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
     
   ##
